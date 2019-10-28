@@ -1,16 +1,45 @@
 # Title
+To bee or not to be
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+Reportedly, in recent years there has been a decrease in the number of beehives in the World. We believe there is not only one reason for that, and our goal is to try to find out what are the possible causations. The dataset we are using is about global food and agriculture statistics and it is provided by the United Nations. Our motivation for the project topic comes from the reason that bees are not only important for producing honey and other bee products, but they also play an important role in the pollination process which is necessary for the production of fruits. First, we would like to gain deeper insights into trends in the number of beehives per country and later on try to correlate the change in the trend with other factors. To conclude, we would like to train a model which could predict what will happen with the trend of the beehives in the upcoming years.
 
 # Research questions
-A list of research questions you would like to address during the project. 
+- How is the beehives population distributed throughout the world?
+- How is the population changing over time?
+- Influence of reduction/growth of beehives population?
+- Does the reduction/growth of beehives affect other factors? 
+- Can we find patterns why beehives reduce/grow in population?
+- Will the bees survive? 
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+The datasets we are using is provided by FAOSTAT (Food and Agriculture Organization Statistics). It consists of 3 million time-series data related to food and agriculture split into 79 csv files. It contains data about 200 countries and what is more important for our use-case, it contains 8354 time-series records about the number of beehives.
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+### 28. October 
+- Set up project Skeleton
+- Set up infrastructure 
+- First look into the data and figuring out relevant files 
+- Find out more information about bees
+
+### 4. November (1st week)
+- Find correlations between dataset
+- Merge necessary files and bring them together
+- Visualize parts of the data 
+- Make a map of the population in different countries 
+
+### 11. November (2nd week)
+- Compare countries
+- Try to find root causes for bees becoming less/more populated 
+- Make connections and show them
+- Future trends?
+
+### 23. November (4th week)
+- Cleaning code
+- First result
+- Wrap up 
+
+### 25. November (Deadline) 
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+How to be sure that there is causation, and not only a correlation, between some outer factors and the number of beehives?
