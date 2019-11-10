@@ -16,25 +16,25 @@ Reportedly, in recent years there has been a decrease in the number of beehives 
 The datasets we are using is provided by FAOSTAT (Food and Agriculture Organization Statistics). It consists of 3 million time-series data related to food and agriculture split into 79 csv files. It contains data about 200 countries and what is more important for our use-case, it contains 8354 time-series records about the number of beehives.
 
 # A list of internal milestones up until project milestone 2
-### 28. October 
+### 28. October (1st week)
 - Set up project Skeleton
 - Set up infrastructure 
 - First look into the data and figuring out relevant files 
 - Find out more information about bees
 
-### 4. November (1st week)
+### 4. November (2nd week)
 - Find correlations between dataset
 - Merge necessary files and bring them together
 - Visualize parts of the data 
 - Make a map of the population in different countries 
 
-### 11. November (2nd week)
+### 11. November (3rd and 4th week)
 - Compare countries
 - Try to find root causes for bees becoming less/more populated 
 - Make connections and show them
 - Future trends?
 
-### 23. November (4th week)
+### 23. November (5th week)
 - Cleaning code
 - First result
 - Wrap up 
