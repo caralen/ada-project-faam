@@ -8,7 +8,7 @@ Reportedly, in recent years there has been a decrease in the number of beehives 
 # Research questions
 - How is the beehives population distributed throughout the world? :heavy_check_mark:
 - How is the population changing over time? :heavy_check_mark:
-- Does beehives population affects other factors? :question:
+- Does beehives population affects other factors? :heavy_check_mark:
 - Does beehives population is affected by other factors? :question:
 - Will the bees survive? :heavy_check_mark:
 
