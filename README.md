@@ -15,6 +15,28 @@ Reportedly, in recent years there has been a decrease in the number of beehives 
 # Dataset
 The datasets we are using is provided by FAOSTAT (Food and Agriculture Organization Statistics). It consists of 3 million time-series data related to food and agriculture split into 79 csv files. It contains data about 200 countries and what is more important for our use-case, it contains 8354 time-series records about the number of beehives.
 
+# A list of internal milestones up until project milestone 3
+### 25. November (1st week)
+- Making the maps interactive
+- Building the website skeletton
+
+### 2. December (2nd week)
+- Selecting relevant parts for the datastory
+- Work on feedback
+- Create the story 
+
+### 9. December (3rd week)
+- Continue on the story 
+- Putting the story on the webpage
+- Clean the notebook so only relevant parts appear
+
+### 16. December (4th week)
+- Resolve issues on the page
+- Beautify the page 
+- Clean code 
+
+### 20. December (Deadline)
+
 # A list of internal milestones up until project milestone 2
 ### 28. October (1st week)
 - Set up project Skeleton
@@ -51,3 +73,4 @@ How to be sure that there is causation, and not only a correlation, between some
  - make maps more interactive and visually appealing
  - structure the data story and think about how to present it in a website
  - try to find a model that predicts the number of beehives, based on the factors analysed until now (pesticides, parasites, forests, inland waters, agriculture, price etc.)
+ - Ask TAs for Spearman and Pearson correlation on time series 
