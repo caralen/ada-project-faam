@@ -43,3 +43,12 @@ The datasets we are using is provided by FAOSTAT (Food and Agriculture Organizat
 
 # Questions for TAa
 How to be sure that there is causation, and not only a correlation, between some outer factors and the number of beehives?
+
+# TODO milestone 3
+ - find better way to calculate ratio for beehives -> with total land surface (?) max value for each country (?)
+ - better way to measure increase and decrease, maybe with mean trend (?)
+ - correlation for agriculture and inland water
+ - sweden malform 1988
+ - make maps more interactive 
+ - 
+ 
