@@ -1,16 +1,16 @@
-# To bee or not to be
-Analysis of beehives trends causations throughout the years
+# To :honeybee: or not to be 
+Analysis of beehives trends causations throughout the years.
+**Main Analysis in researchBees.ipynb**
 
 # Abstract
 Reportedly, in recent years there has been a decrease in the number of beehives in the world. We believe there is not only one reason for that, and our goal is to try to find out what are the possible causations. The dataset we are using is about global food and agriculture statistics and it is provided by the United Nations. Our motivation for the project topic comes from the reason that bees are not only important for producing honey and other bee products, but they also play an important role in the pollination process which is necessary for the production of fruits. First, we would like to gain deeper insights into trends in the number of beehives per country and later on try to correlate the change in the trend with other factors. To conclude, we would like to train a model which could predict what will happen with the trend of the beehives in the upcoming years.
-
+ 
 # Research questions
-- How is the beehives population distributed throughout the world?
-- How is the population changing over time?
-- Influence of reduction/growth of beehives population?
-- Does the reduction/growth of beehives affect other factors? 
-- Can we find patterns why beehives reduce/grow in population?
-- Will the bees survive? 
+- How is the beehives population distributed throughout the world? :heavy_check_mark:
+- How is the population changing over time? :heavy_check_mark:
+- Does beehives population affects other factors? :question:
+- Does beehives population is affected by other factors? :question:
+- Will the bees survive? :heavy_check_mark:
 
 # Dataset
 The datasets we are using is provided by FAOSTAT (Food and Agriculture Organization Statistics). It consists of 3 million time-series data related to food and agriculture split into 79 csv files. It contains data about 200 countries and what is more important for our use-case, it contains 8354 time-series records about the number of beehives.
@@ -41,14 +41,13 @@ The datasets we are using is provided by FAOSTAT (Food and Agriculture Organizat
 
 ### 25. November (Deadline) 
 
-# Questions for TAa
+# Questions for TAa (Milestone 1)
 How to be sure that there is causation, and not only a correlation, between some outer factors and the number of beehives?
 
-# TODO milestone 3
- - find better way to calculate ratio for beehives -> with total land surface (?) max value for each country (?)
- - better way to measure increase and decrease, maybe with mean trend (?)
- - correlation for agriculture and inland water
- - sweden malform 1988
- - make maps more interactive 
- - 
- 
+# :construction: TODO milestone 3 :construction:
+ - find better way to calculate ratio for beehives. With total land surface is good enough? should we use max values of each country instead? other methods?
+ - better way to measure increase and decrease in the number of beehives during the years. Maybe with mean trend? or splitting the years in intervals?
+ - sweden drop in number of beehives in 1988 (just a data collecting problem ?)
+ - make maps more interactive and visually appealing
+ - structure the data story and think about how to present it in a website
+ - try to find a model that predicts the number of beehives, based on the factors analysed until now (pesticides, parasites, forests, inland waters, agriculture, price etc.)
