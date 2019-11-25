@@ -46,7 +46,7 @@ The datasets we are using is provided by FAOSTAT (Food and Agriculture Organizat
 How to be sure that there is causation, and not only a correlation, between some outer factors and the number of beehives?
 
 # TODO milestone 3
- - find better way to calculate ratio for beehives. With total land surface is enough good? should we use max values of each country instead? other methods?
+ - find better way to calculate ratio for beehives. With total land surface is good enough? should we use max values of each country instead? other methods?
  - better way to measure increase and decrease in the number of beehives during the years. Maybe with mean trend? or splitting the years in intervals?
  - sweden drop in number of beehives in 1988 (just a data collecting problem ?)
  - make maps more interactive and visually appealing
