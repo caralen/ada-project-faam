@@ -9,7 +9,7 @@ Reportedly, in recent years there has been a decrease in the number of beehives 
 - How is the beehives population distributed throughout the world? :heavy_check_mark:
 - How is the population changing over time? :heavy_check_mark:
 - Does beehives population affects other factors? :heavy_check_mark:
-- Does beehives population is affected by other factors? :question:
+- Does beehives population is affected by other factors? :heavy_check_mark:
 - Will the bees survive? :heavy_check_mark:
 
 # Dataset
@@ -66,11 +66,17 @@ The datasets we are using is provided by FAOSTAT (Food and Agriculture Organizat
 # Questions for TAa (Milestone 1)
 How to be sure that there is causation, and not only a correlation, between some outer factors and the number of beehives?
 
-# :construction: TODO milestone 3 :construction:
- - find better way to calculate ratio for beehives. With total land surface is good enough? should we use max values of each country instead? other methods?
- - better way to measure increase and decrease in the number of beehives during the years. Maybe with mean trend? or splitting the years in intervals?
- - sweden drop in number of beehives in 1988 (just a data collecting problem ?)
- - make maps more interactive and visually appealing
- - structure the data story and think about how to present it in a website
- - try to find a model that predicts the number of beehives, based on the factors analysed until now (pesticides, parasites, forests, inland waters, agriculture, price etc.)
- - Ask TAs for Spearman and Pearson correlation on time series 
+# Milestone 3 
+ - find better way to calculate ratio for beehives. With total land surface is good enough? should we use max values of each country instead? other methods? :heavy_check_mark:
+ - sweden drop in number of beehives in 1988 (just a data collecting problem ?) :heavy_check_mark:
+ - make maps more interactive and visually appealing :heavy_check_mark:
+ - structure the data story and think about how to present it in a website :heavy_check_mark:
+ - try to find a model that predicts the number of beehives, based on the factors analysed until now (pesticides, parasites, forests, inland waters, agriculture, price etc.) :heavy_check_mark:
+ - Ask TAs for Spearman and Pearson correlation on time series :heavy_check_mark:
+
+# #whodidwhat
+
+- Alen:         Several plots, integrating further data into the analysis, Crops correlation and prediction
+- Anel:         Milestones, World maps, analysing beehives dataset, arima
+- Francesco:    Correlations, writing the Data Story, website
+- Mateo:        Correlations, Website, Plots on the webpage
