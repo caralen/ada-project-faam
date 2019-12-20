@@ -1,6 +1,8 @@
 # To :honeybee: or not to be 
 Analysis of beehives trends causations throughout the years.
-**Main Analysis in researchBees.ipynb**
+**Main Analysis in researchBees.ipynb**  
+## Data Story
+**https://bee-story.github.io/** 
 
 # Abstract
 Reportedly, in recent years there has been a decrease in the number of beehives in the world. We believe there is not only one reason for that, and our goal is to try to find out what are the possible causations. The dataset we are using is about global food and agriculture statistics and it is provided by the United Nations. Our motivation for the project topic comes from the reason that bees are not only important for producing honey and other bee products, but they also play an important role in the pollination process which is necessary for the production of fruits. First, we would like to gain deeper insights into trends in the number of beehives per country and later on try to correlate the change in the trend with other factors. To conclude, we would like to train a model which could predict what will happen with the trend of the beehives in the upcoming years.
